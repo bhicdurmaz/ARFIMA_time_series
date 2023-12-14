@@ -1,2 +1,2 @@
 # ARFIMA_time_series
-A research work with Esra Akdeniz Duran
+A research work with Esra Akdeniz Duran by R language
